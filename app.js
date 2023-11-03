@@ -1,5 +1,3 @@
-console.log("working.");
-const apiKey = '2a8c145b05db989897ca23d3b4fa58c9'
 
 const todayDate = document.querySelector('.today-date')
 const timeNow = document.querySelector('.time-now')
